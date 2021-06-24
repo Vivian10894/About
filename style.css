@@ -134,7 +134,7 @@ body {
 }
 .heart1 {
   position: absolute;
-  left: 100px;
+  left: 170px;
   top: 100px;
   animation-name: boxmove1;
   animation-duration: 2s;
@@ -160,7 +160,7 @@ body {
 }
 .heart2 {
   position: absolute;
-  left: 250px;
+  left: 350px;
   top: 35px;
   animation-name: boxmove2;
   animation-duration: 2s;
@@ -186,7 +186,7 @@ body {
 }
 .heart3 {
   position: absolute;
-  left: 350px;
+  right: 170px;
   top: 50px;
   animation-name: boxmove3;
   animation-duration: 2s;
@@ -244,7 +244,7 @@ body {
 }
 .heart5 {
   position: absolute;
-  left: 850px;
+  right: 320px;
   top: 100px;
   animation-name: boxmove5;
   animation-duration: 2s;
